@@ -1,4 +1,3 @@
 vue_homework
 
-author : YC Tung (¸³¼İ«e)
-
+author : YC Tung (è‘£æ¯…å‰)
